@@ -13,7 +13,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 
 
-**covid_vaccine_data :**
+**covid vaccine data :**
 
 **Bussiness usecase :**
     We've data available in amazon S3 location and we want to connect integrate with databricks to amazon S3 and need to analysis bases on the data.
